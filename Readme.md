@@ -14,10 +14,10 @@
 >
 > As you may already know, the [WinForms Snap control](https://docs.devexpress.com/WindowsForms/11373/controls-and-libraries/snap) and [Snap Report API](https://docs.devexpress.com/OfficeFileAPI/15188/snap-report-api) are now in maintenance support mode. No new features or capabilities are incorporated into these products. We recommend that you use [DevExpress Reporting](https://docs.devexpress.com/XtraReports/2162/reporting) tool to generate, edit, print, and export your business reports/documents.
 
-<p>This example illustrates how you can use the <a href="https://documentation.devexpress.com/#WindowsForms/clsDevExpressSnapCoreAPISnapDocumenttopic"><u>SnapDocument</u></a> events to customize the structure and formatting of Snap lists and columns added to a document via the Data Explorer.</p><p>To learn more about using the Snap API, see <a href="https://documentation.devexpress.com/#WindowsForms/CustomDocument16062"><u>Developer Guidelines</u></a>.</p><p>See also:<br />
-- <a href="https://www.devexpress.com/Support/Center/CodeCentral/ViewExample.aspx?exampleId=E4781"><u>How to generate a document layout in code via the Snap application programming interface (API)</u></a>;<br />
-- <a href="https://www.devexpress.com/Support/Center/CodeCentral/ViewExample.aspx?exampleId=E5078"><u>How to automatically create mail-merge documents using the Snap Document Server</u></a>.</p>
+This example illustrates how you can use the [SnapDocument](https://docs.devexpress.com/WindowsForms/DevExpress.Snap.Core.API.SnapDocument?v=21.2) events to customize the structure and formatting of Snap lists and columns added to a document via the Data Explorer.
 
-<br/>
+To learn more about using the Snap API, see [Developer Guidelines](https://docs.devexpress.com/WindowsForms/16062/controls-and-libraries/snap/developer-guidelines?v=21.2).
 
-
+See also:  
+- [How to generate a document layout in code via the Snap application programming interface (API)](https://github.com/DevExpress-Examples/how-to-generate-a-document-layout-in-code-via-the-snap-application-programming-interface-api-e4781)
+- [How to automatically create mail-merge documents using the Snap Document Server](https://github.com/DevExpress-Examples/how-to-automatically-create-mail-merge-documents-using-the-snap-report-api-e5078).
